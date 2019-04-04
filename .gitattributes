@@ -1,0 +1,14 @@
+# Text files have auto line endings
+* text=auto
+
+# Go source files always have LF line endings
+*.go text eol=lf
+
+# YAML always have LF line endings
+*.yaml text eol=lf
+
+# Go module always have LF line endings
+go.mod text eol=lf
+
+# Bash always have LF line endings
+go.mod text eol=lf
